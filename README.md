@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋 I'm Dimitrios
 
 I'm an undergraduate student at the Athens University of Economics and Business (AUEB), studying Management Science & Technology (DMST).
 
