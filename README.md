@@ -4,17 +4,6 @@ I'm an undergraduate student at the Athens University of Economics and Business 
 
 ---
 
-## 🔗 Connect with me
-- LinkedIn: https://www.linkedin.com/in/dimitrios-fintzos/
-
----
-
-## Projects
-- 🔹 [Perplexity Computation](https://github.com/Fintzos/perplexity-project)
-  - Sliding window perplexity calculation using a language model
-
----
-
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
