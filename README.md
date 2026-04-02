@@ -3,7 +3,6 @@
 I'm an undergraduate student at the Athens University of Economics and Business (AUEB), studying Management Science & Technology (DMST).
 
 ---
-
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
