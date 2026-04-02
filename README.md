@@ -5,7 +5,7 @@ I'm an undergraduate student at the Athens University of Economics and Business 
 ---
 
 ## 🔗 Connect with me
-- LinkedIn: (βάλε το link σου εδώ)
+- LinkedIn: https://www.linkedin.com/in/dimitrios-fintzos/
 
 ---
 
