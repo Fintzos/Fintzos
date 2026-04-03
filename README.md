@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="center">Tools:</h2>
+<h3 align="center">Tools:</h3>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<h2 align="left">Libraries</h2>
+<h4 align="center">Libraries</h4>
 
 ###
 
