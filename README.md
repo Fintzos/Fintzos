@@ -1,28 +1,63 @@
-## Hi👋 I'm Dimitrios
+<h1 align="center">Hi 👋, I'm Dimitrios</h1>
 
-I'm an undergraduate student at the Athens University of Economics and Business (AUEB), studying Management Science & Technology (DMST).
+###
 
+<p align="left">An undergraduate student at the Athens University of Economics and Business (AUEB), studying Management Science & Technology (DMST).</p>
 
+###
 
-## Tech Stack 
+<h2 align="center">Connect with me:</h2>
 
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
+###
 
-###  Data & Engineering
-![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=postgresql)
-![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=for-the-badge)
+<div align="center">
+  <a href="https://www.linkedin.com/in/dimitrios-fintzos/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-### Computer Science Fundamentals
-![Algorithms](https://img.shields.io/badge/-Algorithms-black?style=for-the-badge)
-![Data Structures](https://img.shields.io/badge/-Data%20Structures-black?style=for-the-badge)
-![Databases](https://img.shields.io/badge/-Databases-black?style=for-the-badge)
+###
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
+<p align="left"></p>
 
-### Machine Learning
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=for-the-badge&logo=pytorch)
+###
+
+<h2 align="center">Languages and Databases:</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-line.svg" height="40" alt="matlab logo"  />
+</div>
+
+###
+
+<h2 align="center">Tools:</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
